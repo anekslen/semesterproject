@@ -2,4 +2,4 @@
 by Anna Hutter
 
 ## Links
-[Report](https://github.com/anekslen/semesterproject/blob/main/report.pdf)
+[Report](https://github.com/anekslen/semesterproject/raw/main/report.pdf)
